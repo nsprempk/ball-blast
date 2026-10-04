@@ -102,9 +102,9 @@ function Terms() {
             <p>For questions regarding these Terms, contact:</p>
 
             <p>
-              <strong>Errorfix Solution OPC Private Limited</strong>
+              <strong>Ball Blast</strong>
               <br />
-              support@errorfixsolution.com
+              support@prostories.site
             </p>
           </section>
         </div>

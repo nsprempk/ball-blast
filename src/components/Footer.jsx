@@ -7,7 +7,7 @@ function Footer() {
         <div>
           <strong>Ball Blast</strong>
 
-          <p>© 2026 Errorfix Solution OPC Private Limited</p>
+          <p>© 2026 Ball Blast</p>
         </div>
 
         <div className="footer-links">

@@ -28,12 +28,9 @@ function Contact() {
             technical problems, you can contact us by email.
           </p>
 
-          <a
-            className="email-button"
-            href="mailto:support@errorfixsolution.com"
-          >
+          <a className="email-button" href="mailto:support@prostories.site">
             <Mail size={19} />
-            support@errorfixsolution.com
+            support@prostories.site
           </a>
 
           <div className="contact-info">
@@ -55,7 +52,7 @@ function Contact() {
           <div>
             <strong>Ball Blast</strong>
 
-            <p>© 2026 Errorfix Solution OPC Private Limited</p>
+            <p>© 2026 Ball Blast</p>
           </div>
 
           <div className="footer-links">

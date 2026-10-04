@@ -258,13 +258,13 @@ const sections = [
         <p>
           <strong>Developer:</strong>
           <br />
-          Errorfix Solution OPC Private Limited
+          Ball Blast
         </p>
 
         <p>
           <strong>Email:</strong>
           <br />
-          support@errorfixsolution.com
+          support@prostories.site
         </p>
       </>
     ),
@@ -319,7 +319,7 @@ function PrivacyPolicy() {
           <div>
             <strong>Ball Blast</strong>
 
-            <p>© 2026 Errorfix Solution OPC Private Limited</p>
+            <p>© 2026 Ball Blast</p>
           </div>
 
           <div className="footer-links">

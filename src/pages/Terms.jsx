@@ -102,7 +102,7 @@ function Terms() {
             <p>For questions regarding these Terms, contact:</p>
 
             <p>
-              <strong>Ball Blast</strong>
+              <strong>Ball Blast!</strong>
               <br />
               support@prostories.site
             </p>
